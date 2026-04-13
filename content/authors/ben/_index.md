@@ -13,6 +13,9 @@ authors:
 # Site owner?
 superuser: false
 
+# Highlight the author in lists?
+highlight_name: true
+
 # Role/position
 role: PhD Candidate, Aerospace Engineering
 

@@ -10,6 +10,9 @@ last_name: Nguyen
 authors:
   - tri
 
+# Highlight the author in lists?
+highlight_name: true
+
 # Primary site user?
 superuser: false
 
@@ -60,7 +63,7 @@ social:
 
 # Groups for People widget
 user_groups:
-  - Researchers
+  - Ph.D. Students
 
 ---
 

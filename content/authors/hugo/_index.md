@@ -13,6 +13,9 @@ authors:
 # Site owner?
 superuser: false
 
+# Highlight the author in lists?
+highlight_name: true
+
 # Role/position
 role: PhD Student, Aerospace Engineering
 
@@ -65,7 +68,7 @@ social:
 
 # Groups for People widget
 user_groups:
-  - Researchers
+  - Ph.D. Students
 ---
 
 Hugo Henry is a PhD student in Aerospace Engineering at the University of Cincinnati, working

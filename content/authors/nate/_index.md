@@ -13,6 +13,9 @@ authors:
 # Primary site user?
 superuser: false
 
+# Highlight the author in lists?
+highlight_name: true
+
 # Role/position
 role: PhD Candidate, Aerospace Engineering
 
@@ -61,7 +64,7 @@ social:
 
 # Organizational groups
 user_groups:
-  - Researchers
+  - Ph.D. Students
 ---
 
 Nate Steffen is a PhD candidate in Aerospace Engineering at the University of Cincinnati.
