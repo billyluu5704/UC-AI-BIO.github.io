@@ -1,5 +1,5 @@
 ---
-title: 'Adaptive CLIK Control for Robotic Arm Capture of Tumbling Satellites Via Genetic Fuzzy Trees'
+title: 'Fuzzy ODEs as a Means for Low-Thrust Trajectory Generation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,7 +23,7 @@ publishDate: '2026-04-13T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['conference-paper']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the North American Fuzzy Information Processing Society, 2026"

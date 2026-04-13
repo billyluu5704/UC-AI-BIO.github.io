@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Ph.D Candidate, Aerospace Engineering
+role: PhD Candidate, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -54,6 +54,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:burtonjd@mail.uc.edu
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jared-burton-33731a12b/
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/

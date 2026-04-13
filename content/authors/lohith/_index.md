@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: Researcher in Explainable AI & Cybersecurity
+role: PhD Candidate, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:

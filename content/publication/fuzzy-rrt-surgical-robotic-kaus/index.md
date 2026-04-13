@@ -26,7 +26,7 @@ publishDate: '2026-04-13T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['conference-paper']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the North American Fuzzy Information Processing Society, 2025"

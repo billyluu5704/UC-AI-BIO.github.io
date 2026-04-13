@@ -17,7 +17,7 @@ highlight_name: true
 superuser: false
 
 # Role/position
-role: PhD Student, Aerospace Engineering
+role: PhD Candidate, Aerospace Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -54,12 +54,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:nguye3hr@mail.uc.edu
-  # - icon: github
-  #   icon_pack: fab
-  #   link: ""
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: ""
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.com/citations?user=kkxtQ60AAAAJ&hl=en"
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/huutringuyenuc/"
 
 # Groups for People widget
 user_groups:

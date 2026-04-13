@@ -103,7 +103,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 25
+    zoom: 15
   publications:
     relate_to_authors: true
 

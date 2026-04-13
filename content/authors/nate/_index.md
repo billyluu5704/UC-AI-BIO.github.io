@@ -55,12 +55,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:steffenr@mail.uc.edu
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.com/citations?user=DbkkSm4AAAAJ&hl=en"
   # - icon: github
   #   icon_pack: fab
   #   link: ""
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: ""
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/nrsteffen/"
 
 # Organizational groups
 user_groups:

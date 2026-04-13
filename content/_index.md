@@ -23,23 +23,35 @@ sections:
         <h2 style="text-align: center; font-weight: 400; margin-bottom: 2.5rem; font-size: 2.5rem; color: #333;">AI Bio Lab @ University of Cincinnati</h2>
         <div class="row align-items-start">
           <div class="col-md-6 mb-4 mb-md-0" style="font-size: 1.0rem; line-height: 1.6; padding-right: 2rem;">
-            <p style="margin-top: 0;">The AI Bio Lab at the University of Cincinnati, led by Professor Kelly Cohen, is internationally recognized as a pioneer in fuzzy-logic-based, explainable, and trustworthy artificial intelligence. For over three decades, Professor Cohen’s research has advanced certifiable AI architectures designed for safety-critical systems, including advanced air mobility, aerospace autonomy, transportation infrastructure, personalized medicine, and human–AI teaming.</p>
+            <p style="margin-top: 0;">The AI Bio Lab at the University of Cincinnati, led by Professor Kelly Cohen, is internationally recognized as a pioneer in fuzzy-logic-based, explainable, and trustworthy artificial intelligence. For over three decades, Professor Cohen and his students' research has advanced certifiable AI architectures designed for safety-critical systems, including advanced air mobility, aerospace autonomy, transportation infrastructure, personalized medicine, and human–AI teaming.</p>
             <p>The lab’s mission is uncompromising: <b>AI that is transparent, auditably safe, and operationally trustworthy from the ground up.</b></p>
           </div>
           <div class="col-md-6 mb-4 mb-md-0 position-relative">
             <div id="homeCarousel" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner" style="border-radius: 8px;">
                 <div class="carousel-item active">
-                  <img src="/images/welcome.jpeg" class="d-block w-100 modal-trigger" alt="Welcome to the AI Bio Lab." data-toggle="modal" data-target="#imageModal" data-slide-to="0" style="cursor: pointer; height: 350px; object-fit: cover;">
-                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;">Welcome to the AI Bio Lab.</div>
+                  <img src="/images/ksfuaward.jpeg" class="d-block w-100 modal-trigger" alt="Dr. Kelly Cohen wins the K.S. Fu Award at NAFIPS 2026!" data-toggle="modal" data-target="#imageModal" data-slide-to="0" style="cursor: pointer; height: 350px; object-fit: cover;">
+                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;"> Dr. Kelly Cohen wins the K.S. Fu Award at NAFIPS 2026!</div>
                 </div>
                 <div class="carousel-item">
-                  <img src="/images/welcome.jpg" class="d-block w-100 modal-trigger" alt="Our team at the university." data-toggle="modal" data-target="#imageModal" data-slide-to="1" style="cursor: pointer; height: 350px; object-fit: cover;">
-                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;">Our team at the university.</div>
+                  <img src="/images/team_rooftop.jpeg" class="d-block w-100 modal-trigger" alt="Our team on the rooftop at El Paso, Texas." data-toggle="modal" data-target="#imageModal" data-slide-to="1" style="cursor: pointer; height: 350px; object-fit: cover;">
+                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;">Our team on the rooftop at El Paso, Texas.</div>
                 </div>
                 <div class="carousel-item">
-                  <img src="/images/coders.jpg" class="d-block w-100 modal-trigger" alt="Our team collaborating on explainable AI." data-toggle="modal" data-target="#imageModal" data-slide-to="2" style="cursor: pointer; height: 350px; object-fit: cover;">
-                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;">Our team collaborating on explainable AI.</div>
+                  <img src="/images/parallax.jpeg" class="d-block w-100 modal-trigger" alt="AI Bio Lab + Parallax Advanced Research" data-toggle="modal" data-target="#imageModal" data-slide-to="2" style="cursor: pointer; height: 350px; object-fit: cover;">
+                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;">AI Bio Lab + Parallax Advanced Research</div>
+                </div>
+                <div class="carousel-item">
+                  <img src="/images/honors.jpeg" class="d-block w-100 modal-trigger" alt="Honors Students visit to the AI Bio Lab" data-toggle="modal" data-target="#imageModal" data-slide-to="3" style="cursor: pointer; height: 350px; object-fit: cover;">
+                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;">Honors Students visit to the AI Bio Lab</div>
+                </div>
+                <div class="carousel-item">
+                  <img src="/images/symposium.jpeg" class="d-block w-100 modal-trigger" alt="Dr. Kelly Cohen moderating a panel at the AI Symposium in University of Cincinnati" data-toggle="modal" data-target="#imageModal" data-slide-to="4" style="cursor: pointer; height: 350px; object-fit: cover;">
+                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;">Dr. Kelly Cohen moderating a panel at the AI Symposium in University of Cincinnati</div>
+                </div>
+                <div class="carousel-item">
+                  <img src="/images/banff.jpeg" class="d-block w-100 modal-trigger" alt="Awards galore at NAFIPS 2025 in Banff, Canada!" data-toggle="modal" data-target="#imageModal" data-slide-to="5" style="cursor: pointer; height: 350px; object-fit: cover;">
+                  <div class="text-center mt-3 text-muted" style="font-size: 0.9rem;">Awards galore at NAFIPS 2025 in Banff, Canada!</div>
                 </div>
               </div>
               <a class="carousel-control-prev" href="#homeCarousel" role="button" data-slide="prev" style="position: absolute; top: 40%; transform: translateY(-50%); left: 0; border: none; background: transparent; padding: 1rem; text-decoration: none;">
@@ -54,6 +66,9 @@ sections:
                 <li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
                 <li data-target="#homeCarousel" data-slide-to="1"></li>
                 <li data-target="#homeCarousel" data-slide-to="2"></li>
+                <li data-target="#homeCarousel" data-slide-to="3"></li>
+                <li data-target="#homeCarousel" data-slide-to="4"></li>
+                <li data-target="#homeCarousel" data-slide-to="5"></li>
               </ol>
             </div>
           </div>
@@ -77,16 +92,28 @@ sections:
                 <div id="modalCarousel" class="carousel slide" data-ride="false">
                   <div class="carousel-inner" style="border-radius: 8px; overflow: hidden;">
                     <div class="carousel-item active">
-                      <img src="/images/welcome.jpeg" class="d-block w-100" alt="Welcome to the AI Bio Lab.">
-                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">Welcome to the AI Bio Lab.</div>
+                      <img src="/images/ksfuaward.jpeg" class="d-block w-100" alt="Dr. Kelly Cohen wins the K.S. Fu Award at NAFIPS 2026!">
+                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">Dr. Kelly Cohen wins the K.S. Fu Award at NAFIPS 2026!</div>
                     </div>
                     <div class="carousel-item">
-                      <img src="/images/welcome.jpg" class="d-block w-100" alt="Our team at the university.">
-                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">Our team at the university.</div>
+                      <img src="/images/team_rooftop.jpeg" class="d-block w-100" alt="Our team on the rooftop at El Paso, Texas.">
+                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">Our team on the rooftop at El Paso, Texas.</div>
                     </div>
                     <div class="carousel-item">
-                      <img src="/images/coders.jpg" class="d-block w-100" alt="Our team collaborating on explainable AI.">
-                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">Our team collaborating on explainable AI.</div>
+                      <img src="/images/parallax.jpeg" class="d-block w-100" alt="AI Bio Lab + Parallax Advanced Research">
+                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">AI Bio Lab + Parallax Advanced Research</div>
+                    </div>
+                    <div class="carousel-item">
+                      <img src="/images/honors.jpeg" class="d-block w-100" alt="Honors Students visit to the AI Bio Lab">
+                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">Honors Students visit to the AI Bio Lab</div>
+                    </div>
+                    <div class="carousel-item">
+                      <img src="/images/symposium.jpeg" class="d-block w-100" alt="Dr. Kelly Cohen moderating a panel at the AI Symposium in University of Cincinnati">
+                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">Dr. Kelly Cohen moderating a panel at the AI Symposium in University of Cincinnati</div>
+                    </div>
+                    <div class="carousel-item">
+                      <img src="/images/banff.jpeg" class="d-block w-100" alt="Awards galore at NAFIPS 2025 in Banff, Canada!">
+                      <div class="text-center mt-3 text-white p-2" style="font-size: 1rem; text-shadow: 0 1px 3px rgba(0,0,0,0.8);">Awards galore at NAFIPS 2025 in Banff, Canada!</div>
                     </div>
                   </div>
                   <a class="carousel-control-prev" href="#modalCarousel" role="button" data-slide="prev" style="position: absolute; top: 50%; transform: translateY(-50%); left: 0; border: none; background: transparent; padding: 1rem; text-decoration: none;">
@@ -101,6 +128,9 @@ sections:
                     <li data-target="#modalCarousel" data-slide-to="0" class="active"></li>
                     <li data-target="#modalCarousel" data-slide-to="1"></li>
                     <li data-target="#modalCarousel" data-slide-to="2"></li>
+                    <li data-target="#modalCarousel" data-slide-to="3"></li>
+                    <li data-target="#modalCarousel" data-slide-to="4"></li>
+                    <li data-target="#modalCarousel" data-slide-to="5"></li>
                   </ol>
                 </div>
               </div>

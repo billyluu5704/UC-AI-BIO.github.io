@@ -17,7 +17,7 @@ superuser: false
 highlight_name: true
 
 # Role/position
-role: PhD Student, Aerospace Engineering
+role: PhD Candidate, Aerospace Engineering
 
 # Affiliations
 organizations:
@@ -59,9 +59,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:henryho@mail.uc.edu
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: ""
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.com/citations?user=2RwPX08AAAAJ&hl=fr"
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/hugo-henry-921287220/"
   # - icon: github
   #   icon_pack: fab
   #   link: ""
